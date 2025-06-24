@@ -10,9 +10,9 @@ It says it runs on Intel but the commands it uses do not. Sorry to everyone with
 
 MV-HEVC Pal is a utility that takes SBS 3D videos and converts them into MV-HEVC files for use on Apple Vision Pro.
 
-Special thanks and full credit goes to Mike Swanson for the spatial video tools that must be installed for MV-HEVC Pal to work.
+Special thanks and full credit goes to Mike Swanson for the [spatial video tools](https://blog.mikeswanson.com/spatial-video/) that must be installed for MV-HEVC Pal to work.
 
-Special thanks to Andrew Hazelden for Spatial Metadata GUI, which I have used for work, and which greatly influenced this app.
+Special thanks to Andrew Hazelden for [Spatial Metadata GUI](https://github.com/Kartaverse/Spatial-Metadata), which I have used for work, and which greatly influenced this app.
 
 Have feedback? Feel free to report an issue or email me at uxuios@gmail.com and I'll investigate.
 
@@ -43,7 +43,7 @@ You also need to install [spatial](https://blog.mikeswanson.com/spatial-video/) 
 		# To uninstall, run the uninstall command in Terminal:
 		brew uninstall spatial
 
-The spatial tools must be installed at /opt/homebrew/bin/spatial (which should happen automatically) for MV-HEVC Pal to work. You'll get a warning if the app can't find these tools when you try to encode.
+The spatial tools must be installed at `/opt/homebrew/bin/spatial` (which should happen automatically if you use Homebrew) for MV-HEVC Pal to work. You'll get a warning if the app can't find these tools when you try to encode.
 
 
 ## Why This Exists
