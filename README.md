@@ -52,7 +52,7 @@ I wrote this app because Spatial Metadata GUI uses Xojo for its UI. Nothing wron
 
 In addition, I am writing a book on Designing With SwiftUI + AI so I used a lot of the techniques in the book on this project. This app is proof the book worked! (Those who buy the book with get a copy of the source code, which I have not yet open sourced.)
 
-If you're running macOS 25, download the .zip file to try it out. It uses Icon Composer for the icon and there are other little touches of Liquid Glass in action. It also fixes some of the little UI things that I wanted to tweak and make it feel a little more native.
+If you're running macOS 26, download the .zip file to try it out. It uses Icon Composer for the icon and there are other little touches of Liquid Glass in action. It also fixes some of the little UI things that I wanted to tweak and make it feel a little more native.
 
 I'll be tuning the source code until macOS goes live in production.
 
