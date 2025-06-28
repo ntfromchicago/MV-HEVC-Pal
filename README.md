@@ -6,6 +6,8 @@ THIS IS A BETA BUILT WITH Xcode 26 beta + tested on macOS 26 beta. You have been
 
 It says it runs on Intel but the commands it uses do not. Sorry to everyone with an older Mac.
 
+To download the .zip containing the app, look at the Releases and download the latest version.
+
 ## Summary
 
 MV-HEVC Pal is a utility that converts 3D video files into MV-HEVC for use on Apple Vision Pro.
