@@ -6,7 +6,7 @@ THIS IS A BETA BUILT WITH Xcode 26 beta + tested on macOS 26 beta. You have been
 
 It says it runs on Intel but the commands it uses do not. Sorry to everyone with an older Mac.
 
-To download the .zip containing the app, look at the Releases and download the latest version by looking at the assets.
+To download the .zip containing the app, look at the [Releases](https://github.com/ntfromchicago/MV-HEVC-Pal/releases) and download the latest version by looking at the assets.
 
 ## Summary
 
@@ -71,7 +71,4 @@ I'll be tuning the source code until macOS goes live in production.
 
 THIS IS A BETA BUILT WITH Xcode 26 beta + tested on macOS 26 beta. You have been warned.
 
-### Version 1.0 (2025-06-24)
-
-- Initial release
-
+View the full version history: [Releases](https://github.com/ntfromchicago/MV-HEVC-Pal/releases)
