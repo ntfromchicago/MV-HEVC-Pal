@@ -2,9 +2,7 @@
 
 <img width="752" alt="version 1 0 screen shot" src="https://github.com/user-attachments/assets/062e0cff-5e2d-4b71-8c72-fcf8692c7306" />
 
-THIS IS A BETA BUILT WITH Xcode 26 beta + tested on macOS 26 beta. You have been warned.
-
-It says it runs on Intel but the commands it uses do not. Sorry to everyone with an older Mac.
+MV-HEVC Pal is built for Apple Silicon Macs only. (It says it runs on Intel but the commands it uses do not.) Sorry to everyone with an older Mac.
 
 To download the .zip containing the app, look at the [Releases](https://github.com/ntfromchicago/MV-HEVC-Pal/releases). Expand the assets header and tap on the top .zip file.
 
@@ -28,7 +26,7 @@ All encoding is done locally. MV-HEVC Pal has no analytics, usage tracking or in
 
 ## Requirements
 
-✅ An Apple Silicon Mac running macOS 26 beta (it may work on older macOS versions but I haven't tested)
+✅ An Apple Silicon Mac running macOS 26 (it may work on older macOS versions but I haven't tested)
 
 I'm pretty sure Apple Silicon is required, even though this app may still open on Intel Macs.
 
@@ -49,7 +47,7 @@ The spatial tools must be installed at `/opt/homebrew/bin/spatial` (which should
 
 I wrote this app because Spatial Metadata GUI uses Xojo for its UI. Nothing wrong with Xojo, but the release of Liquid Glass sparked my interest in building this purely in SwiftUI.
 
-In addition, I am writing a book on Designing With SwiftUI + AI so I used a lot of the techniques in the book on this project. This app is proof the book worked! (Those who buy the book will get a copy of the source code, which I have not yet open sourced.)
+In addition, I am writing a book on Designing With SwiftUI + AI so I used a lot of the techniques in the book on this project. This app is proof the book worked!
 
 If you're running macOS 26, download the .zip file to try it out. It uses Icon Composer for the icon and there are other little touches of Liquid Glass in action. 
 
@@ -65,10 +63,8 @@ It also fixes some of the UI issues I wanted to tweak and make it feel a little 
 
 🛠️ Improved messaging and cleaner layout that's ready for macOS 26
 
-I'll be tuning the source code until macOS goes live in production.
-
 ## Version History
 
-THIS IS A BETA BUILT WITH Xcode 26 beta + tested on macOS 26 beta. You have been warned.
+Version 1.0.2 has been tweaked and released for MacOS 26. Enjoy!
 
 View the full version history: [Releases](https://github.com/ntfromchicago/MV-HEVC-Pal/releases)
